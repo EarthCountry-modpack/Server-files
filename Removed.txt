@@ -1,0 +1,4 @@
+Neko's Enchanted Books (nebs)
+ItemFavorites (itemfav)
+CraftPresence (craftpresence)
+CraftCreator (craftcreator)

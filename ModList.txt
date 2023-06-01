@@ -58,8 +58,6 @@ Construction Wand			1.18.2-2.9
 Controlling				9.0+22 - 9.0+23
 CookingForBlockheads			12.2.0
 Corpse					1.18.2-1.0.2
-Craft Creator				1.0.0
-CraftPresence				2.0.0-rc.2 - 2.0.0-rc.3
 CraftTweaker				9.1.207
 Create					0.5.0.i - non-updated
 Create Confectionery			1.0.8
@@ -130,7 +128,6 @@ Iron Chests				1.18.2-13.2.11
 Iron Furnaces				3.3.3
 Item Collector				1.1.7
 Item Filters				1802.2.8-build.47 - 1802.2.8-build.50
-ItemFavorites				1.0.0
 ItemPhysic				1.6.0
 ItemStages				4.0.1 - 4.0.3
 Jade					5.2.6
@@ -188,7 +185,6 @@ Mystical Agradditions			5.1.3
 Mystical Agriculture			5.1.4
 Mystical Customization			3.1.2
 Nature's Compass			1.18.2-1.9.7-forge
-Neko's Enchanted Books			1.8.0
 Nether Portal Accessibility		1.0.0-mc1.18.2
 Nether Portal Spread			7.5
 NetherPortalFix				9.0.1
