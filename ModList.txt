@@ -130,7 +130,7 @@ Item Collector				1.1.7
 Item Filters				1802.2.8-build.47 - 1802.2.8-build.50
 ItemPhysic				1.6.0
 ItemStages				4.0.1 - 4.0.3
-Jade					5.2.6
+Jade					5.2.6 - 2.3.0
 Jade Addons				2.4.1 - 2.5.0
 JEI Enchantment Info			1.17.1-2.0.0
 JEI Integration				9.0.0.37
