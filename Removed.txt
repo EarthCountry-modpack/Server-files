@@ -1,4 +1,31 @@
-Neko's Enchanted Books (nebs)
-ItemFavorites (itemfav)
-CraftPresence (craftpresence)
-CraftCreator (craftcreator)
+Toast Control
+Tips
+Shutup experimental settings
+ShulkerBoxTooltip
+ReAuth
+Oculus Particule
+Oculus Flywheel Compat
+Oculus
+Notes
+No auto-jump
+Neko's Enchanted Books
+Mod Name Tooltip
+Light Overlay
+JustZoom
+I know what I'm doing
+Health Overlay
+Falling Leaves
+Extreme sound muffler
+Entity Culling
+Enchantement Description
+Durability Tooltip
+Dark Mode Everywhere
+Controlling
+Configured
+CraftPresence
+Boat Item View
+Better Ping Display
+Better Mod Button
+BetterFPS Dist
+BetterF3
+
